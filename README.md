@@ -1,1 +1,1 @@
-# b24-tasks
+# bx24-template
